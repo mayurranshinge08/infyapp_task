@@ -1,0 +1,46 @@
+name: infyapp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # iOS-style icons
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  firebase_storage:
+
+  # WebView (used for Zoom meetings)
+  webview_flutter:
+
+  # Video player for YouTube
+  youtube_player_flutter:
+
+  # Image handling
+  image_picker:
+  image_cropper:
+
+  # State management
+  flutter_bloc:
+  equatable:
+
+  # HTTP client
+  http:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

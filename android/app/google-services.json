@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224492107906",
+    "project_id": "infyapp-taskss",
+    "storage_bucket": "infyapp-taskss.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224492107906:android:77ad8e1463cbefdc129c9b",
+        "android_client_info": {
+          "package_name": "com.example.infyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-Fxt74_LRvJtN-AVtbazFSkoQYZ8UxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
