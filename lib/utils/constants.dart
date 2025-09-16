@@ -1,4 +1,10 @@
 class AppConstants {
+<<<<<<< HEAD
+=======
+  static const appId = 876767504;
+  static const appsign =
+      'bfe8442a856ef72c9257d8a6a8873bdd4bb35696d6878a1e62909b4fb599e246';
+>>>>>>> fcf35d4 (first change)
   // App Info
   static const String appName = 'Video Learning Platform';
   static const String appVersion = '1.0.0';

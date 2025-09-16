@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<<<<<<< HEAD
+=======
+    <key>NSCameraUsageDescription</key>
+    <string>We need access to your camera for live video calls.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We need access to your microphone for live audio calls.</string>
+>>>>>>> fcf35d4 (first change)
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>

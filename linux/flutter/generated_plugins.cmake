@@ -3,7 +3,14 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   file_selector_linux
+=======
+  audioplayers_linux
+  file_selector_linux
+  flutter_volume_controller
+  zego_express_engine
+>>>>>>> fcf35d4 (first change)
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
