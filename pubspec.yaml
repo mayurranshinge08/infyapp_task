@@ -36,6 +36,10 @@ dependencies:
 
   # HTTP client
   http:
+<<<<<<< HEAD
+=======
+  zego_uikit_prebuilt_call: ^4.18.3
+>>>>>>> fcf35d4 (first change)
 
 dev_dependencies:
   flutter_test:
